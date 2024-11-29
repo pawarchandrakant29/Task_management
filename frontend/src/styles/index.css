@@ -1,0 +1,11 @@
+.top-2{
+    margin-top: 80px !important;
+}
+
+.set1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+    width: 400px;
+}
